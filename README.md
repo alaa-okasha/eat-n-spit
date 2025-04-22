@@ -25,6 +25,12 @@
 
 ---
 
+## 📸 Screenshots
+
+![Screenshot of the app](./public/image.png)
+
+---
+
 ## 🌐 Live Demo
 
 🔗 [Live Site](https://your-deployment-link.com)
@@ -60,7 +66,7 @@ npm run dev  # or npm start if not using Vite
 
 ## 📬 Contact
 
-If you have any feedback or suggestions, feel free to reach out on [LinkedIn](www.linkedin.com/in/alaa-okasha-080162267) or open an issue!
+If you have any feedback or suggestions, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/alaa-okasha-080162267) or open an issue!
 
 ---
 
