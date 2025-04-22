@@ -25,12 +25,6 @@
 
 ---
 
-## 📸 Screenshots
-
-![Screenshot of the app](./public/image.png)
-
----
-
 ## 🌐 Live Demo
 
 🔗 [Live Site](https://your-deployment-link.com)
