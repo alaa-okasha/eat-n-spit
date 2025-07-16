@@ -33,7 +33,7 @@
 
 ## 🌐 Live Demo
 
-🔗 [Live Site](https://your-deployment-link.com)
+🔗 [Live Site]([https://your-deployment-link.com](https://eat-n-split-nine-woad.vercel.app/))
 
 ---
 
